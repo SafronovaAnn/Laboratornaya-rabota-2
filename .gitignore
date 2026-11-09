@@ -1,0 +1,24 @@
+# Исполняемые файлы
+*.exe
+*.out
+a.out
+dbms
+
+# Объектные файлы
+*.o
+*.obj
+
+# Файлы покрытия 
+*.gcda
+*.gcno
+*.info
+coverage_report/
+
+# Файлы данных 
+data.txt
+db.txt
+test_db.txt
+test_db.bin
+
+# Настройки VS Code
+.vscode/
